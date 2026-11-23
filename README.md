@@ -43,7 +43,6 @@ I'm a **Frontend & Mobile Engineer** based in **Lagos, Nigeria 🇳🇬**, with 
 <p align="center">
   <a href="https://github.com/davidojo1144/LedgerLock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=davidojo1144&repo=LedgerLock&theme=tokyonight&hide_border=true&border_radius=10" alt="LedgerLock" /></a>
   <a href="https://github.com/davidojo1144/LogStream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=davidojo1144&repo=LogStream&theme=tokyonight&hide_border=true&border_radius=10" alt="LogStream" /></a>
-  <a href="https://github.com/davidojo1144/234Deals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=davidojo1144&repo=234Deals&theme=tokyonight&hide_border=true&border_radius=10" alt="234Deals" /></a>
 </p>
 
 - **LedgerLock**: a double-entry accounting engine. Every transaction has to balance, a retried request can never charge twice (idempotency keys), and concurrent writes can't corrupt a balance (optimistic locking). Built with Node.js, PostgreSQL and Next.js.
