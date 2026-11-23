@@ -48,7 +48,6 @@ I'm a **Frontend & Mobile Engineer** based in **Lagos, Nigeria 🇳🇬**, with 
 - **LedgerLock**: a double-entry accounting engine. Every transaction has to balance, a retried request can never charge twice (idempotency keys), and concurrent writes can't corrupt a balance (optimistic locking). Built with Node.js, PostgreSQL and Next.js.
 - **LogStream**: real-time log aggregation. A Go collector handles fast ingestion and a Next.js dashboard lets you search and watch logs live. Dockerised.
 
-
 ---
 
 ### 🧰 What I work with
@@ -77,14 +76,6 @@ I'm a **Frontend & Mobile Engineer** based in **Lagos, Nigeria 🇳🇬**, with 
 ---
 
 ### 📈 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=davidojo1144&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidojo1144&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph" />
-</p>
 
 <p align="center">
   <picture>
