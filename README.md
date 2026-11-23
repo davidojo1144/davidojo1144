@@ -48,7 +48,7 @@ I'm a **Frontend & Mobile Engineer** based in **Lagos, Nigeria 🇳🇬**, with 
 
 - **LedgerLock**: a double-entry accounting engine. Every transaction has to balance, a retried request can never charge twice (idempotency keys), and concurrent writes can't corrupt a balance (optimistic locking). Built with Node.js, PostgreSQL and Next.js.
 - **LogStream**: real-time log aggregation. A Go collector handles fast ingestion and a Next.js dashboard lets you search and watch logs live. Dockerised.
-- **234Deals**: the source of the 234 Deals shopping app. React Native, Expo Router, NativeWind.
+
 
 ---
 
